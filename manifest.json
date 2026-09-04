@@ -1,0 +1,9 @@
+{
+  "name":"FarmAssist Pro",
+  "short_name":"FarmAssist",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f4f8f5",
+  "theme_color":"#0f7b4d",
+  "icons":[{"src":"assets/icon.svg","sizes":"any","type":"image/svg+xml"}]
+}
